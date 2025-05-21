@@ -37,15 +37,26 @@ You are expected to do the following to complete this project:
 This folder contains sample screenshots that students are required to submit in order to prove they completed various tasks throughout the project.
 
 1. article-cms-solution.png is a screenshot from running the FlaskWebProject on Azure and prove that the student was able to create a new entry. The Title, Author, and Body fields must be populated to prove that the data is being retrieved from the Azure SQL Database while the image on the right proves that an image was uploaded and pulled from Azure Blob Storage.
+   ![image](https://github.com/user-attachments/assets/20e7af63-c21f-454f-bc2d-e24136da7543)
+
 2. azure-portal-resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group the student needs to create. The resource group must (at least) contain the following:
 	- Storage Account
 	- SQL Server
 	- SQL Database
 	- Resources related to deploying the app
+![image](https://github.com/user-attachments/assets/d3238271-67f5-41f2-acd4-8cf16fed6e0e)
+
 3. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
+   ![image](https://github.com/user-attachments/assets/d6865302-c516-4bc7-850a-b44bb04cedc9)
+
 4. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
+   ![image](https://github.com/user-attachments/assets/e85f37d5-9e85-4fe7-b9db-24214abcc02a)
+
 5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
+   ![image](https://github.com/user-attachments/assets/db2127bb-80ea-439c-a9e1-d5a9c823d5b0)
+
 6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream. You can customize your log messages as you see fit for these situations.
+   ![image](https://github.com/user-attachments/assets/cd514351-dbd6-4558-86d1-bb73c654c689)
 
 ## Dependencies
 
